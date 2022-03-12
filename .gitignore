@@ -1,3 +1,2 @@
-__pycache__/create_csv_file.cpython-39.pyc
-__pycache__/Graphs.cpython-39.pyc
-__pycache__/gui.cpython-39.pyc
+__pycache__/
+*.py[cod]
